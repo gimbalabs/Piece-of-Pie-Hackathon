@@ -10,14 +10,24 @@ It exists to give participants, supporters, and observers one place to find the 
 - Current cycle: 2026
 - Source authority: This repo is the public source of truth for hackathon documentation
 
+## Official Links
+
+- Public website: https://gimbalabs.com/piece-of-pie
+- Gimbalabs Discord: [Gimbalabs](https://discord.gg/jJcwaqJHPV)
+- Piece of Pie feedback forum: [Gimbalabs](https://discord.gg/qCSyTvAqDf)
+- Piece of Pie discussion channel: [Gimbalabs](https://discord.gg/6yPsU8JwBx)
+- Registration form: https://forms.gle/dn717R8CcxTz6qFcA
+
+---
+
 ## Start Here
 
 - [Overview](docs/overview.md)
 - [Timeline](docs/timeline.md)
 - [Rewards](docs/rewards.md)
-- [Builder Rules](docs/builder-rules.md)
-- [Real User Rules](docs/real-user-rules.md)
-- [Feedback Rules](docs/feedback-rules.md)
+- [Builder Pie Rules](docs/builder-rules.md)
+- [Real User Pie Rules](docs/real-user-rules.md)
+- [Feedback Pie Rules](docs/feedback-rules.md)
 - [Registration](docs/registration.md)
 - [Verification](docs/verification.md)
 - [FAQ](docs/faq.md)
@@ -43,19 +53,13 @@ The hackathon includes three public reward tracks:
 
 Qualify through consistent, verifiable participation, not competition.
 
-## Official Clarifications
+## Official Communications channels
 
-- Public updates and dated announcements live on [X](https://x.com/gimbalabs) and [FAQs](docs/faq.md).
+- [X: @gimbalabs](https://x.com/gimbalabs) 
+- [Github issues of this repo](https://github.com/gimbalabs/Piece-of-Pie-Hackathon/issues)
+- [Gimbalabs Discord](https://discord.gg/jJcwaqJHPV)
 
-## Official Links
-
-- Public website: https://gimbalabs.com/piece-of-pie
-- Gimbalabs Discord: https://discord.gg/jJcwaqJHPV
-- Piece of Pie feedback forum: https://discord.gg/qCSyTvAqDf
-- Piece of Pie discussion channel: https://discord.gg/6yPsU8JwBx
-- Registration form: https://forms.gle/dn717R8CcxTz6qFcA
-
-## Discord Flow
+## Participant Flow - For Discussion and Feedback
 
 Participants should:
 
@@ -63,12 +67,12 @@ Participants should:
 2. complete server verification
 3. use the Piece of Pie channels for the right purpose
 
-Use the feedback forum for:
+Use the #piece-of-pie-feedback-requests forum for:
 
 - requesting feedback
 - volunteering to give feedback
 
-Use the discussion channel for:
+Use the #piece-of-hackathan discussion channel for:
 
 - general Piece of Pie questions
 - general discussion

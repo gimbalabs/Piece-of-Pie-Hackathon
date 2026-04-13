@@ -10,6 +10,8 @@ Registration is open during the enrollment period only.
 
 No new entries are accepted after the enrollment period closes.
 
+> Registeration is not required for the Feedback Pie track.  Find more info about the [Feedback Rules](feedback-rules.md) 
+
 ## One Registration Per Project
 
 Each project should submit one registration.

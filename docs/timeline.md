@@ -43,4 +43,3 @@ During the final presentation window, qualifying builders must present:
 
 - Enrollment closes after April 26, 2026.
 - New entries are not accepted after the enrollment period closes.
-

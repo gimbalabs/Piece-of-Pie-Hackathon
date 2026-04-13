@@ -45,7 +45,7 @@ If required evidence is missing, incomplete, or not public where required, quali
 
 ## Final Presentation Checklist
 
-Builders should be ready to present:
+Builders should present:
 
 - live demo
 - repo link

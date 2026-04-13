@@ -66,4 +66,3 @@ An additional 3,000 ADA is allocated for administrative support, including:
 ## Important Note
 
 Reward pools are distributed based on qualification and verification, not on subjective judging.
-

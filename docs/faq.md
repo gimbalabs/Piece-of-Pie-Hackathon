@@ -49,7 +49,7 @@ Each required tweet must:
 
 ## Do I need a deployed product?
 
-For Builder qualification, yes. By the end of the event, the product must be publicly accessible on its intended platform.
+For Builder qualification, yes. By the end of the event, the product must be publicly accessible on its intended platform.  For qualifying for the Feedback pie, you don't need to build and deploy a product - only volunteer and be accepted on the discord channel. 
 
 ## What counts for the Real User Pie?
 
@@ -78,7 +78,7 @@ No. You may participate in the Feedback track even without a builder project.
 
 ## How do feedback sessions start?
 
-Join the Gimbalabs Discord, complete server verification, and use the official Piece of Pie feedback forum.
+Join the Gimbalabs Discord, complete server verification, and use the official Piece of Pie feedback forum (#piece-of-pie-feedback-requests).
 
 Flow:
 
@@ -92,12 +92,12 @@ Use the general Piece of Pie discussion channel for broader questions and discus
 Links:
 
 - Gimbalabs Discord: https://discord.gg/jJcwaqJHPV
-- Piece of Pie feedback forum: https://discord.gg/qCSyTvAqDf
-- Piece of Pie discussion channel: https://discord.gg/6yPsU8JwBx
+- Piece of Pie feedback forum - #piece-of-pie-feedback-requests: https://discord.gg/qCSyTvAqDf
+- Piece of Pie discussion channel - #piece-of-pie-hackathon: https://discord.gg/6yPsU8JwBx
 
-## What open questions are not yet decided here?
+## How can I raise questions or issues about the hackathon itself?
 
-If a rule, edge case, or interpretation is unclear, open an issue in this repository.
+If a rule, edge case, or interpretation is unclear, [open an issue in this repository](https://github.com/gimbalabs/Piece-of-Pie-Hackathon/issues).
 
 When opening an issue:
 
