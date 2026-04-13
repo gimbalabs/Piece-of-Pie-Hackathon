@@ -76,6 +76,25 @@ No. Family and friends do not count as paying users.
 
 No. You may participate in the Feedback track even without a builder project.
 
+## How do feedback sessions start?
+
+Join the Gimbalabs Discord, complete server verification, and use the official Piece of Pie feedback forum.
+
+Flow:
+
+- a builder posts a feedback request
+- a feedback giver volunteers in the thread
+- the builder team may accept or refuse the volunteer before the recorded session starts
+- the session must be live and recorded to count
+
+Use the general Piece of Pie discussion channel for broader questions and discussion.
+
+Links:
+
+- Gimbalabs Discord: https://discord.gg/jJcwaqJHPV
+- Piece of Pie feedback forum: https://discord.gg/qCSyTvAqDf
+- Piece of Pie discussion channel: https://discord.gg/6yPsU8JwBx
+
 ## What open questions are not yet decided here?
 
 If a rule, edge case, or interpretation is unclear, open an issue in this repository.

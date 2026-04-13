@@ -50,6 +50,25 @@ Qualify through consistent, verifiable participation, not competition.
 ## Official Links
 
 - Public website: https://gimbalabs.com/piece-of-pie
-- Discord: https://discord.gg/jJcwaqJHPV
+- Gimbalabs Discord: https://discord.gg/jJcwaqJHPV
+- Piece of Pie feedback forum: https://discord.gg/qCSyTvAqDf
+- Piece of Pie discussion channel: https://discord.gg/6yPsU8JwBx
 - Registration form: https://forms.gle/dn717R8CcxTz6qFcA
 
+## Discord Flow
+
+Participants should:
+
+1. join the Gimbalabs Discord
+2. complete server verification
+3. use the Piece of Pie channels for the right purpose
+
+Use the feedback forum for:
+
+- requesting feedback
+- volunteering to give feedback
+
+Use the discussion channel for:
+
+- general Piece of Pie questions
+- general discussion

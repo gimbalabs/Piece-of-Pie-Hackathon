@@ -29,9 +29,13 @@ To verify Real User qualification, participants must be able to show:
 
 To verify Feedback qualification, participants must be able to show:
 
+- the original feedback request in the official feedback forum
+- the volunteer response or coordination in that thread
 - evidence of live feedback sessions
 - recordings for those sessions
 - enough information to validate credits earned
+
+The Discord thread is the coordination path. Qualification still depends on the completed recorded session and the supporting evidence.
 
 ## Verification Standard
 
@@ -47,4 +51,3 @@ Builders should be ready to present:
 - repo link
 - all weekly tweet links
 - deployed product link
-

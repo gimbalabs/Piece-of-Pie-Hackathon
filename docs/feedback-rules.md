@@ -15,9 +15,29 @@ People may participate in the Feedback track even if they are not builders.
 
 Builders are also encouraged to participate.
 
+Builders and feedback givers should join the Gimbalabs Discord and complete server verification before using the official Piece of Pie channels.
+
 ## Requirements
 
-### 1. Feedback Must Happen Live
+### 1. Use the Official Discord Flow
+
+Qualifying feedback should be coordinated through the official Piece of Pie feedback forum in the Gimbalabs Discord.
+
+Flow:
+
+- a builder posts a feedback request in the forum
+- a feedback giver volunteers in that thread
+- the builder team may accept or refuse a volunteer before the recorded session starts
+
+Use the general Piece of Pie discussion channel for broader questions and discussion.
+
+Official links:
+
+- Gimbalabs Discord: https://discord.gg/jJcwaqJHPV
+- Piece of Pie feedback forum: https://discord.gg/qCSyTvAqDf
+- Piece of Pie discussion channel: https://discord.gg/6yPsU8JwBx
+
+### 2. Feedback Must Happen Live
 
 Feedback must be given through a live interaction, such as:
 
@@ -25,19 +45,21 @@ Feedback must be given through a live interaction, such as:
 - Google Meet
 - another comparable live meeting tool
 
-### 2. Feedback Must Be Recorded
+### 3. Feedback Must Be Recorded
 
 Each qualifying interaction must be recorded.
 
-### 3. One Session Equals One Credit
+### 4. One Session Equals One Credit
 
 Each qualifying feedback interaction counts as one credit.
 
-### 4. Maximum Credits
+Offering feedback does not count as a credit by itself.
+
+### 5. Maximum Credits
 
 Each participant may earn up to 15 credits.
 
-### 5. Evidence Must Be Shareable
+### 6. Evidence Must Be Shareable
 
 Feedback evidence must be available for verification.
 

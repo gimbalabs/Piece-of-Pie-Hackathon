@@ -22,6 +22,7 @@ Before registering, participants should have:
 - a complete list of all contributors
 - one official public repository
 - a repository that starts empty for the hackathon
+- access to the Gimbalabs Discord
 
 ## Team Registration Rules
 
@@ -34,6 +35,18 @@ Before registering, participants should have:
 
 - Registration form: https://forms.gle/dn717R8CcxTz6qFcA
 - GitHub: https://github.com
+- Gimbalabs Discord: https://discord.gg/jJcwaqJHPV
+- Piece of Pie feedback forum: https://discord.gg/qCSyTvAqDf
+- Piece of Pie discussion channel: https://discord.gg/6yPsU8JwBx
+
+## Discord Access
+
+Participants should join the Gimbalabs Discord and complete server verification.
+
+After verification:
+
+- use the feedback forum for feedback requests and feedback coordination
+- use the discussion channel for general Piece of Pie questions and discussion
 
 ## Public Record Expectation
 
@@ -42,4 +55,3 @@ Registration should match the public record that participants maintain throughou
 - the official repository
 - weekly progress tweets
 - final presentation materials
-
