@@ -49,6 +49,10 @@ Feedback must be given through a live interaction, such as:
 
 Each qualifying interaction must be recorded.
 
+Zoom is a recommended recording option. A project owner who requests feedback may create the Zoom room, record the live session, and share the recording with the feedback giver for evidence.
+
+A free Zoom account is sufficient if the host uses Zoom's computer recording option and then uploads or shares the recording file. Cloud recording may require a paid Zoom account. Any comparable service is also acceptable if it creates a shareable recording that can be verified.
+
 ### 4. One Session Equals One Credit
 
 Each qualifying feedback interaction counts as one credit.

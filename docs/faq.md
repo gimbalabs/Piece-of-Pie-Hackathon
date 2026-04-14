@@ -95,6 +95,16 @@ Links:
 - Piece of Pie feedback forum - #piece-of-pie-feedback-requests: https://discord.gg/qCSyTvAqDf
 - Piece of Pie discussion channel - #piece-of-pie-hackathon: https://discord.gg/6yPsU8JwBx
 
+## What is the recommend tool to record a feedback session?
+
+Any comparable service is also acceptable if it creates a shareable recording that can be verified.
+
+Zoom is recommended because the free account allows for recorded sessions up to 40 min.  
+
+The project owner requesting feedback may create the Zoom room, host the live feedback session, record it, and share the recording with the feedback giver for evidence.
+
+A free Zoom account is enough if the host uses Zoom's computer recording option and then uploads or shares the recording file. Cloud recording may require a paid Zoom account. Other comparable services are also acceptable if they create a shareable recording that can be verified.
+
 ## How can I raise questions or issues about the hackathon itself?
 
 If a rule, edge case, or interpretation is unclear, [open an issue in this repository](https://github.com/gimbalabs/Piece-of-Pie-Hackathon/issues).
