@@ -25,21 +25,18 @@
 
 ---
 
-## 👷 Builder Dashboard - coming in week 2
+## 👷 Builder Updates - coming in week 2
 
-| Builder | Status                   | Latest Update   | User Progress    |
-| ------- | ------------------------ | --------------- | ---------------- |
-| Example | Active / Quiet / Blocked | [link to tweet] | [Link to github] |
-|         |                          |                 |                  |
+
 
 ---
 
 ## ⏰ Deadlines & Reminders
 
-* Weekly update due: Sunday 2026-04-19 1200 UTC
+* Weekly update due: Sunday 2026-04-26 1200 UTC
 * Upcoming milestone: 
   * Enrollment period ends 2026-04-26
-  * First update tweet due 2026-04-26 
+  * Weekly update tweets due each Sunday 1200 UTC
 * Final presentations: **Week 12** - 2026-07-05
 
 ---
@@ -100,6 +97,7 @@ As builders, we all have a list of ideas. This is your moment to **commit to one
   Consistency > competition
   
   #Cardano #BuildInPublic #Hackathon #Web3 #DevCommunity
+
 * 🟢 Consented
   What proves a project is real?
   
@@ -111,6 +109,7 @@ As builders, we all have a list of ideas. This is your moment to **commit to one
   Builder incentives now tied to real-world validation.
   
   #Startups #ProductMarketFit #Web3Builders #Cardano #IndieHackers
+
 * 🟢 Consented
   Feedback isn’t optional in the Gimbalabs Piece Of Pie Hackathon.
   
@@ -121,6 +120,7 @@ As builders, we all have a list of ideas. This is your moment to **commit to one
   Shared learning.
   
   #FeedbackLoops #OpenSource #Web3 #Collaboration #Cardano
+
 * 🟢 Consented
   Can a hackathon work without competition?
   
@@ -142,7 +142,7 @@ As builders, we all have a list of ideas. This is your moment to **commit to one
 
 * Main page: [https://www.gimbalabs.com/piece-of-pie](https://www.gimbalabs.com/piece-of-pie)
 * Project list: coming after enrollment period is over
-* Submit your update: @gimbalabs
+* Submit your update: [@gimbalabs](https://x.com/gimbalabs)
 * Feedback channel: [#piece-of-pie-feedback-requests](https://discord.com/channels/767416282198835220/1493276804314828871)
 * Builder discussion channel: [#piece-of-pie-hackathon](https://discord.com/channels/767416282198835220/1493275589325492234)
 
