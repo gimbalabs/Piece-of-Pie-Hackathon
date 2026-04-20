@@ -1,6 +1,6 @@
 # 🥧 Piece of Pie Hackathon— Weekly Update
 
-*Short. Clear. Actionable.*
+
 
 ---
 
@@ -26,8 +26,6 @@
 ---
 
 ## 👷 Builder Updates - coming in week 2
-
-
 
 ---
 
