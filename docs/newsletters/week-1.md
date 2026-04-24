@@ -1,7 +1,5 @@
 # 🥧 Piece of Pie Hackathon— Weekly Update
 
-
-
 ---
 
 ## 🧭 State of the Hackathon

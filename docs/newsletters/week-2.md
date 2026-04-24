@@ -13,10 +13,6 @@
 ## 🔥 What Happened This Week
 
 - 📝 **First project registrations submitted**
-- 🏷️ **Project list published** (see repo)
-- 🛠️ **Admin dashboard MVP demoed**
-- 💬 **Builder intros posted in Discord**
-- 🗳️ **Feedback requests increased**
 - 🐦 **Weekly update tweets posted**
 - 🤝 **New mentors joined Discord**
 
@@ -24,35 +20,44 @@
 
 ## 👷 Builder Updates
 
-* 7 builders submitted their first updates
-* Project ideas range from DeFi tools to NFT platforms
-* Early team formations underway
+* https://x.com/mhiztagab1/status/2046522176191291505?s=20
+* https://x.com/0xxxIaN0/status/2045905534734258684?s=20
+* 
 
 ---
 
 ## ⏰ Deadlines & Reminders
 
-* Weekly update due: Sunday 2026-05-03 1200 UTC
-* Enrollment closes: 2026-04-26 (final call!)
+* Weekly update due: Sunday 2026-04-26 1200 UTC
+* Enrollment closes: 2026-04-26 
 * Weekly update tweets due each Sunday 1200 UTC
 * Final presentations: **Week 12** - 2026-07-05
+
+**👉 This Week: Do This**
+
+- [ ] Register
+- [ ] Post your update
+- [ ] Ask / give feedback (optional but encouraged)
+- [ ] monitor the GL discord and X channel for discussion and updates
 
 ---
 
 ## 🔄 Changes / Announcements
 
-* Project list now live in the repo
+* Everyone building must register and post an update on X by the enrollment deadline
+* Project list will go live in the repo after enrollment closes
 * Enrollment closes this week—no late entries
-* Next week: builder showcase in Discord
 
 ---
 
 ## 💬 Feedback Loop
 
-* Open requests for feedback:
+* What feedback do you need?  What assumptions can you validate about your product?
+- Open requests for feedback:
+  
   * [Project list](https://www.gimbalabs.com/piece-of-pie)
   * [Feedback channel in Discord](https://discord.com/channels/767416282198835220/1493276804314828871)
-* To request or give feedback, use the Discord channel
+* To request or give feedback, use the Discord channel #piece-of-pie-feedback-requests
 
 ---
 
@@ -62,7 +67,6 @@
 
 - 🚀 Start building your MVP
 - 📝 Share your first progress update
-- 🤝 Connect with your team or find collaborators
 
 This week is about moving from idea to action.
 
@@ -78,7 +82,8 @@ This week is about moving from idea to action.
 
 ## 🐦 Tweets of the Week
 
-* 
+* [from @gimbalabs and have #PieceOfPie #hackathon](https://x.com/search?q=(%23PieceOfPie%20AND%20%23hackathon)%20(from%3Agimbalabs)&src=typed_query)
+* [just #PieceOfPie#hackathon](https://x.com/search?q=(%23PieceOfPie%20AND%20%23hackathon)&src=typed_query&f=top)
 
 ---
 

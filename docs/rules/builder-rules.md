@@ -109,7 +109,6 @@ The following issues are disqualifying:
 
 Builder qualification is based on visible, consistent, verifiable participation over time.
 
-
-
 Ready to start?
+
 - [Registration infomation in this repo](docs/registration.md)
