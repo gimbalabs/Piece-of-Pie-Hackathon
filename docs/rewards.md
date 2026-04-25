@@ -5,8 +5,20 @@
 The 2026 hackathon reward structure is divided into separate pools, referred to as pies.
 
 - Builder Pie: 10,000 ADA
+- Cardano Pie: 20,000 ADA
 - Real User Pie: 2,000 ADA
 - Feedback Pie: 1,000 ADA
+
+Total participant reward pools: 33,000 ADA.
+
+The Cardano Pie is sponsored by the Cardano Foundation.
+
+Qualified Cardano Pie projects also get an opportunity to pitch to the Draper Dragon VC Fund.
+
+## Administration
+
+Administration is separate from participant reward pools:
+
 - Administration: 3,000 ADA
 
 ## Builder Pie
@@ -18,11 +30,23 @@ Key idea:
 - this is an equal split pool
 - qualification matters more than ranking
 
+Cardano mainnet projects that qualify for the Cardano Pie receive a share of the Cardano Pie instead of the Builder Pie.
+
+## Cardano Pie
+
+The Cardano Pie is split equally among qualified participants who:
+
+- satisfy every Builder Pie requirement
+- include payment gating
+- deliver real functionality on Cardano mainnet
+
+This pie replaces the Builder Pie for teams shipping qualifying Cardano projects.
+
 ## Real User Pie
 
 The Real User Pie is split equally among participants who:
 
-- qualify as builders first
+- qualify as builders first, including through the Builder Pie or Cardano Pie
 - also meet the Real User requirements
 
 ## Feedback Pie
@@ -54,9 +78,7 @@ Estimated payouts:
 - Bill: 5 x 33.33
 - Charles: 10 x 33.33
 
-## Administration
-
-An additional 3,000 ADA is allocated for administrative support, including:
+The 3,000 ADA administration allocation supports:
 
 - coordination
 - participant tracking

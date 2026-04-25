@@ -6,11 +6,11 @@ Registration is open during the enrollment period only.
 
 2026 enrollment dates:
 
-- April 13, 2026 to April 26, 2026
+- April 13, 2026 to May 3, 2026
 
 No new entries are accepted after the enrollment period closes.
 
-> Registeration is not required for the Feedback Pie track.  Find more info about the [Feedback Rules](feedback-rules.md) 
+> Registration is not required for the Feedback Pie track. Find more info about the [Feedback Rules](rules/feedback-pie-rules.md).
 
 ## One Registration Per Project
 

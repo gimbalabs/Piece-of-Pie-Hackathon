@@ -1,4 +1,4 @@
-# Builder Rules
+# Builder Pie Rules
 
 ## Builder Pie Summary
 
@@ -8,6 +8,8 @@ Builder Pie allocation:
 
 - 10,000 ADA
 - equal split among qualified participants
+
+Cardano mainnet projects should also review the [Cardano Pie Rules](cardano-pie-rules.md). Qualifying Cardano Pie projects receive a share of the Cardano Pie instead of the Builder Pie.
 
 ## Builder Requirements
 
@@ -111,4 +113,4 @@ Builder qualification is based on visible, consistent, verifiable participation 
 
 Ready to start?
 
-- [Registration infomation in this repo](docs/registration.md)
+- [Registration information in this repo](../registration.md)

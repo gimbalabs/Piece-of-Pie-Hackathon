@@ -1,4 +1,4 @@
-# Real User Rules
+# Real User Pie Rules
 
 ## Real User Pie Summary
 
@@ -15,9 +15,9 @@ To qualify for the Real User Pie, a participant or project must meet all of the 
 
 ### 1. Qualify as a Builder First
 
-Real User qualification depends on Builder qualification.
+Real User qualification depends on Builder-track qualification.
 
-If a project does not qualify for the Builder Pie, it does not qualify for the Real User Pie.
+If a project does not qualify for the Builder Pie or Cardano Pie, it does not qualify for the Real User Pie.
 
 ### 2. Secure at Least One Paying User
 

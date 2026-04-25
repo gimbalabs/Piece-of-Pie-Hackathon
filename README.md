@@ -25,9 +25,10 @@ It exists to give participants, supporters, and observers one place to find the 
 - [Overview](docs/overview.md)
 - [Timeline](docs/timeline.md)
 - [Rewards](docs/rewards.md)
-- [Builder Pie Rules](docs/rules/builder-rules.md)
-- [Real User Pie Rules](docs/rules/real-user-rules.md)
-- [Feedback Pie Rules](docs/rules/feedback-rules.md)
+- [Builder Pie Rules](docs/rules/builder-pie-rules.md)
+- [Cardano Pie Rules](docs/rules/cardano-pie-rules.md)
+- [Real User Pie Rules](docs/rules/real-user-pie-rules.md)
+- [Feedback Pie Rules](docs/rules/feedback-pie-rules.md)
 - [Registration](docs/registration.md)
 - [Verification](docs/verification.md)
 - [FAQ](docs/faq.md)
@@ -36,18 +37,21 @@ It exists to give participants, supporters, and observers one place to find the 
 
 Piece of Pie is a 12-week, participation-driven hackathon. It is not a judged competition. Participants qualify through consistent, verifiable public work.
 
-The hackathon includes three public reward tracks:
+The hackathon includes four public reward tracks, with 33,000 ADA available to qualified participants:
 
 - Builder Pie: 10,000 ADA
+- Cardano Pie: 20,000 ADA
 - Real User Pie: 2,000 ADA
 - Feedback Pie: 1,000 ADA
 
+The Cardano Pie is sponsored by the Cardano Foundation. Qualified Cardano Pie projects also get an opportunity to pitch to the Draper Dragon VC Fund.
+
 ## Key Dates
 
-- Enrollment period: April 13, 2026 to April 26, 2026
-- Build period: April 13, 2026 to July 5, 2026
-- Final presentations: June 29, 2026 to July 5, 2026
-- Payout window: July 5, 2026 to July 12, 2026
+- Enrollment period: April 13, 2026 to May 3, 2026
+- Build period: April 13, 2026 to July 12, 2026
+- Final presentations: July 5, 2026 to July 12, 2026
+- Payout window: July 12, 2026 to July 18, 2026
 
 ## Core Principle
 

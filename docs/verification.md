@@ -16,6 +16,19 @@ To verify Builder qualification, participants must be able to show:
 - a live demo
 - a deployed public product link
 
+## Cardano Pie Verification
+
+To verify Cardano Pie qualification, participants must be able to show:
+
+- proof that the project met every Builder Pie requirement
+- proof of payment gating
+- a live demo of real functionality on Cardano mainnet
+- the official public repository
+- all required weekly tweet links
+- a deployed public product link
+
+Qualified Cardano Pie projects also get an opportunity to pitch to the Draper Dragon VC Fund.
+
 ## Real User Verification
 
 To verify Real User qualification, participants must be able to show:
@@ -51,3 +64,4 @@ Builders should present:
 - repo link
 - all weekly tweet links
 - deployed product link
+- Cardano mainnet evidence, if qualifying for the Cardano Pie

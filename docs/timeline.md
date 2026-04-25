@@ -4,14 +4,14 @@
 
 The dates below reflect the current 2026 schedule.
 
-- Enrollment period: April 13, 2026 to April 26, 2026
-- Build period: April 13, 2026 to July 5, 2026
-- Final presentations: June 29, 2026 to July 5, 2026
-- Payout window: July 5, 2026 to July 12, 2026
+- Enrollment period: April 13, 2026 to May 3, 2026
+- Build period: April 13, 2026 to July 12, 2026
+- Final presentations: July 5, 2026 to July 12, 2026
+- Payout window: July 12, 2026 to July 18, 2026
 
 ## Timeline by Phase
 
-### Weeks 1-2
+### Enrollment Period
 
 - Enrollment is open
 - Each project registers once
@@ -41,5 +41,5 @@ During the final presentation window, qualifying builders must present:
 
 ## Notes
 
-- Enrollment closes after April 26, 2026.
+- Enrollment closes after May 3, 2026.
 - New entries are not accepted after the enrollment period closes.

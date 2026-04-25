@@ -8,6 +8,7 @@ The purpose is to create a lightweight structure that encourages people to:
 
 - build consistently
 - share progress publicly
+- ship real functionality on Cardano mainnet
 - test ideas in the real world
 - learn in public with clear expectations
 
@@ -29,16 +30,18 @@ Piece of Pie responds with a low-friction structure that rewards:
 
 - consistent participation
 - public progress
+- Cardano mainnet delivery
 - real-world outcomes
 
 ## Format
 
 - Duration: 12 weeks
-- Enrollment period: first 2 weeks only
-- Enrollment closes after Week 2
+- Enrollment period: April 13, 2026 to May 3, 2026
+- Enrollment closes after May 3, 2026
 - One participant may only join one project
 - Projects may be solo or team-based
 - Every contributor must be named during registration
+- Cardano Foundation sponsors the Cardano Pie for qualifying projects that build on Cardano mainnet
 
 ## Key Principle
 

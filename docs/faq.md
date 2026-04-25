@@ -53,7 +53,23 @@ For Builder qualification, yes. By the end of the event, the product must be pub
 
 ## What counts for the Real User Pie?
 
-You must first qualify as a Builder, then show at least one real paying user, payment evidence, and a public customer acquisition story.
+You must first qualify through the Builder Pie or Cardano Pie requirements, then show at least one real paying user, payment evidence, and a public customer acquisition story.
+
+## What is the Cardano Pie?
+
+The Cardano Pie is a 20,000 ADA reward pool sponsored by the Cardano Foundation for qualifying projects that build real functionality on Cardano mainnet.
+
+## What does a Cardano Pie project need to do?
+
+A Cardano Pie project must satisfy every Builder Pie requirement, include payment gating, and deliver real functionality on Cardano mainnet.
+
+## Can a Cardano project also receive the Builder Pie?
+
+No. For qualifying Cardano mainnet projects, the Cardano Pie replaces the Builder Pie.
+
+## Who gets to pitch to Draper Dragon?
+
+Qualified Cardano Pie projects get an opportunity to pitch to the Draper Dragon VC Fund.
 
 ## What counts as payment evidence?
 
