@@ -28,10 +28,10 @@
 
 ## ⏰ Deadlines & Reminders
 
-* Weekly update due: Sunday 2026-04-26 1200 UTC
+* Weekly update due: Sunday 2026-05-03 1200 UTC
 * Enrollment closes: 2026-05-03 
 * Weekly update tweets due each Sunday 1200 UTC
-* Final presentations: **Week 12** - 2026-07-12
+* Final presentations: **Week 12** - 2026-07-19
 
 **👉 This Week: Do This**
 

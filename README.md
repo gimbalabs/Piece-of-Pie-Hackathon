@@ -49,9 +49,9 @@ The Cardano Pie is sponsored by the Cardano Foundation. Qualified Cardano Pie pr
 ## Key Dates
 
 - Enrollment period: April 13, 2026 to May 3, 2026
-- Build period: April 13, 2026 to July 12, 2026
-- Final presentations: July 5, 2026 to July 12, 2026
-- Payout window: July 12, 2026 to July 18, 2026
+- Build period: April 13, 2026 to July 19, 2026
+- Final presentations: July 12, 2026 to July 19, 2026
+- Payout window: July 19, 2026 to July 26, 2026
 
 ## Core Principle
 
