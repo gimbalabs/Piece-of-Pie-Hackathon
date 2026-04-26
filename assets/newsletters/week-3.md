@@ -35,7 +35,7 @@
 
 * Weekly update due: Sunday 2026-05-10 1200 UTC
 * Weekly update tweets due each Sunday 1200 UTC
-* Final presentations: **Week 12** - 2026-07-12
+* Final presentations: **Week 12** - 2026-07-19
 
 ---
 

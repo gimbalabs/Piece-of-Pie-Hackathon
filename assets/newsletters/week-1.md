@@ -33,7 +33,7 @@
 * Upcoming milestone: 
   * Enrollment period ends 2026-05-03
   * Weekly update tweets due each Sunday 1200 UTC
-* Final presentations: **Week 12** - 2026-07-12
+* Final presentations: **Week 12** - 2026-07-19
 
 ---
 
