@@ -56,6 +56,8 @@ The Feedback Pie is distributed proportionally based on feedback credits.
 Rules:
 
 - 1 live, recorded feedback session = 1 credit
+- the credit goes to the feedback giver who completes the session
+- receiving feedback does not earn a credit by itself
 - a participant can earn up to 15 credits
 - the 1,000 ADA pool is divided proportionally across all valid credits
 

@@ -100,6 +100,14 @@ No. Family and friends do not count as paying users.
 
 No. You may participate in the Feedback track even without a builder project.
 
+## Do I get Feedback Pie credits for receiving feedback on my project?
+
+No. Receiving feedback does not earn a Feedback Pie credit by itself. Feedback Pie credits go to the feedback giver who completes a qualifying live, recorded session through the official Discord flow.
+
+## Do builders choose who gets to give feedback?
+
+Yes. A builder posts the request, feedback givers volunteer in the thread, and the builder team may accept or refuse a volunteer before the recorded session starts.
+
 ## How do feedback sessions start?
 
 Join the Gimbalabs Discord, complete server verification, and use the official Piece of Pie feedback forum (#piece-of-pie-feedback-requests).

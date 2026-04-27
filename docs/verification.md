@@ -50,6 +50,11 @@ To verify Feedback qualification, participants must be able to show:
 
 The Discord thread is the coordination path. Qualification still depends on the completed recorded session and the supporting evidence.
 
+For clarity:
+
+- Feedback Pie credits are earned by the feedback giver, not by the builder receiving feedback.
+- A builder may choose whether to accept a volunteer before the session starts.
+
 ## Verification Standard
 
 The standard is verifiable public participation.

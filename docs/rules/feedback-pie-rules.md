@@ -4,6 +4,8 @@
 
 The Feedback Pie rewards people who help builders improve through live, recorded interaction.
 
+It does not reward a builder simply for asking for feedback or receiving feedback.
+
 Feedback Pie allocation:
 
 - 1,000 ADA
@@ -14,6 +16,8 @@ Feedback Pie allocation:
 People may participate in the Feedback track even if they are not builders.
 
 Builders are also encouraged to participate.
+
+A builder may earn Feedback Pie credits only when acting as the feedback giver for someone else's project.
 
 Builders and feedback givers should join the Gimbalabs Discord and complete server verification before using the official Piece of Pie channels.
 
@@ -28,6 +32,8 @@ Flow:
 - a builder posts a feedback request in the forum
 - a feedback giver volunteers in that thread
 - the builder team may accept or refuse a volunteer before the recorded session starts
+
+This means the builder team chooses whether to proceed with a specific volunteer for that session.
 
 Use the general Piece of Pie discussion channel for broader questions and discussion.
 
@@ -57,7 +63,11 @@ A free Zoom account is sufficient if the host uses Zoom's computer recording opt
 
 Each qualifying feedback interaction counts as one credit.
 
-Offering feedback does not count as a credit by itself.
+The credit goes to the feedback giver for completing the live, recorded session through the official flow.
+
+Receiving feedback does not create a credit by itself.
+
+Offering feedback without completing the session does not count as a credit.
 
 ### 5. Maximum Credits
 
@@ -74,6 +84,12 @@ Participants may use this public evidence template:
 ## Payout Logic
 
 The 1,000 ADA pool is divided proportionally across all valid credits earned by qualified participants.
+
+In practical terms:
+
+- builders do not earn Feedback Pie credits just for receiving feedback
+- feedback givers earn credits for completed qualifying sessions
+- builders may also earn credits if they give qualifying feedback to other teams
 
 ## Practical Standard
 
