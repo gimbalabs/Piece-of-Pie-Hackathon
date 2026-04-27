@@ -25,6 +25,10 @@ No. Each participant may only join one project.
 
 Yes. Every contributor must be explicitly listed during registration.
 
+## Do I have to wait until the registration deadline to start building?
+
+No. Once you register, you can start building. What matters is that you have twelve consecutive weeks of building in the repository and updates on X.
+
 ## Can we use a private repository?
 
 No. The official repository must be public and remain public until final payouts are complete.
@@ -46,6 +50,10 @@ Each required tweet must:
 - include `#pieceofpie`
 - include `#hackathon`
 - mention `@gimbalabs`
+
+## Should I collect evidence of my tweets?
+
+Yes. It is up to the builder to collect evidence for the final presentation that shows twelve consecutive weekly tweets following the format outlined in the rules.  The admin team will verify the tweets before the payout at the end of the Hackathon.
 
 ## Do I need a deployed product?
 
