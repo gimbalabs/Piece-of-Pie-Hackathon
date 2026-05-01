@@ -70,12 +70,30 @@ At least one qualifying public tweet is required every week.
 Each required weekly tweet must:
 
 - clearly show project progress
+- include at least one meaningful progress note:
+- what you worked on
+- what you learned
+- what is next
+- blockers or asks
 - include `#gimbalabs`
 - include `#pieceofpie`
 - include `#hackathon`
 - mention `@gimbalabs`
 
-Missing a required week results in disqualification.
+Optional but recommended:
+
+- include the current week number
+- include a link to the repository
+- include a link to the product or demo
+
+Simple format:
+
+`Week X`
+`What I worked on: ...`
+`What I learned / what's next / blockers: ...`
+`@gimbalabs #gimbalabs #pieceofpie #hackathon`
+
+Missing a required week results in disqualification. 
 
 ### 8. Make the Product Publicly Accessible
 

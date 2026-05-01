@@ -46,10 +46,28 @@ Missing a required weekly tweet is disqualifying for Builder qualification.
 Each required tweet must:
 
 - show progress
+- include at least one concrete progress note:
+- what you worked on
+- what you learned
+- what is next
+- blockers or asks
 - include `#gimbalabs`
 - include `#pieceofpie`
 - include `#hackathon`
 - mention `@gimbalabs`
+
+Optional but recommended:
+
+- the current week number
+- a repository link
+- a product, demo, or deployment link
+
+One simple pattern is:
+
+`Week X`
+`Worked on: ...`
+`Learned / Next / Blockers: ...`
+`@gimbalabs #gimbalabs #pieceofpie #hackathon`
 
 ## Should I collect evidence of my tweets?
 
