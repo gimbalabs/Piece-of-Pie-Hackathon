@@ -31,6 +31,7 @@ It exists to give participants, supporters, and observers one place to find the 
 - [Feedback Pie Rules](docs/rules/feedback-pie-rules.md)
 - [Registration](docs/registration.md)
 - [Verification](docs/verification.md)
+- [Final Presentation Template](docs/final-presentation-template.md)
 - [FAQ](docs/faq.md)
 
 ## Quick Summary
