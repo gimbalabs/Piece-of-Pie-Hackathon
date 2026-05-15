@@ -20,6 +20,7 @@
   - [just #PieceOfPie #hackathon #gimbalabs](https://x.com/search?q=(%23PieceOfPie%20AND%20%23hackathon%20AND%20%23gimbalabs)&src=typed_query&f=live)
 - Here are the tweets from the @gimbalabs account
   - [from @gimbalabs and have #PieceOfPie](https://x.com/search?q=(%23PieceOfPie)%20(from%3Agimbalabs)&f=live&src=typed_query)
+- Here are some of the repos which tag themselves with piece-of-pie-2026 on GitHub: https://github.com/topics/piece-of-pie-2026
 
 ---
 
@@ -31,27 +32,21 @@
 
 ---
 
-## ![🔄](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f504/72.png) Changes / Announcements
+## 🔄 Changes / Announcements
 
-- Newman is sharing a prototype [Builder Dashboard](https://newman5.github.io/builder-season-playbook/dashboard/), which shows the builder list and important links
-
-- Reminder: The first week of registration for the hackathon 
-  ended on 2026-04-19. So, when the Admin references week one, we mean 
-  from Monday 2026-04-13 to Sunday 2026-04-19. The week ending 2026-04-26 
-  is week 2. You as a builder may have made your first update - week 1 
-  update- in the last week of registration, the week ending 2026-05-03. 
-  This is the confusion. The builders week 1 update, happened in Week 3 of
-   the hackathon. No Worries. Keep recording your weekly updates for your 
-  final presentation - which will show 12 consecutive weeks of updates. If
-   you started the week ending 2026-04-19, you will have the final 
-  presentation during the week ending 2026-07-05. And, if you started last
-   week (ending 2026-05-03), then you finish by 2026-07-19.
+- Adriano of GameChanger is office a Live Coding Space every Tuesday 15:00 UTC. In this space You can:
   
-  - Contact us on the Discord if you need clarification
+  - meet and socialize with other builders 
+  
+  - discuss issues with your Hackathon projects
+  
+  - work on your projects "open garage" style, that is "alone but with others around"
+  
+  - find a feedback session partner
 
-- Reminder: You must choose one Pie between Cardano and Builder. You can't have a slice from each Pie.
+- Two builders have left the hackathon.  We are now 27 builders.  We want to celebrate their initiative in joining and wish them well in their next projects.
 
-- Reminder: submit blockers / accomplishments / ask for clarification of the rules on the discord.
+- Add a github topic to your repo so we can connect all the repos.  See this Github help document on how - [classifying-your-repository-with-topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics") 
 
 ---
 
