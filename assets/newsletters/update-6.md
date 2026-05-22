@@ -1,13 +1,14 @@
-# 🥧 Piece of Pie Hackathon — Weekly Update #5
+# 🥧 Piece of Pie Hackathon — Update #6
 
-provisional 
 ---
 
 ## 🧭 State of the Hackathon
 
 - **Time:** 3 weeks since enrollment ended (your build week may vary)
 
-- **Active Builders:** 28
+- **Active Builders:** 26
+
+- **Thank you:** Gimbalabs and Cardano Foundation for the sponsorship
 
 ---
 
@@ -15,28 +16,35 @@ provisional
 
 - 🏗️ More weekly update posts and Github activity from builders
 
-- 💬 Builders like, repost, and comment on X Posts
+- 💬 Builders liked, reposted, and commented on each other’s X posts
 
-- 🛠️ Continued improvements to the Builder Dashboard prototype
+- 👋 Two builders left the hackathon. 26 builders are still building and updating consistently
 
-- 🥧 An Open Space offered by Adriano of GameChanger
+- 🥧 Open Garage / Live Coding Space offered by Adriano of [GameChanger Finance](https://gamechanger.finance)
 
 ---
 
 ## 👷 Builder Updates
 
-- See the [builder dashboard for updates](https://newman5.github.io/builder-season-playbook/dashboard/) from all the hackathon members
-- We can search X.com for everyone using the hashtags to see the updates:
-  - [just #PieceOfPie #hackathon #gimbalabs](https://x.com/search?q=(%23PieceOfPie%20AND%20%23hackathon%20AND%20%23gimbalabs)&src=typed_query&f=live)
-- Here are the tweets from the @gimbalabs account
-  - [from @gimbalabs and have #PieceOfPie](https://x.com/search?q=(%23PieceOfPie)%20(from%3Agimbalabs)&f=live&src=typed_query)
-- Here are some of the repos which tag themselves with piece-of-pie-2026 on GitHub: [piece-of-pie-2026 · GitHub Topics · GitHub](https://github.com/topics/piece-of-pie-2026)
+- See the [Builder Dashboard for updates](https://newman5.github.io/builder-season-playbook/dashboard/) from all the hackathon members
+
+- Search X for everyone using the hashtags:
+  
+  - [#PieceOfPie #hackathon #gimbalabs](https://x.com/search?q=(%23PieceOfPie%20AND%20%23hackathon%20AND%20%23gimbalabs)&src=typed_query&f=live)
+
+- See tweets from the @gimbalabs account:
+  
+  - [#PieceOfPie posts from @gimbalabs](https://x.com/search?q=(%23PieceOfPie)%20(from%3Agimbalabs)&f=live&src=typed_query)
+
+- Some builders are now tagging their repos with the GitHub topic:
+  
+  - [piece-of-pie-2026 · GitHub Topics](https://github.com/topics/piece-of-pie-2026)
 
 ---
 
 ## ⏰ Deadlines & Reminders
 
-- **Weekly update due:** Sunday 2026-05-17 1200 UTC
+- **Weekly update due:** Sunday 2026-05-24 1200 UTC
 
 - Weekly updates are required each Sunday at 1200 UTC
 
@@ -54,91 +62,95 @@ Reminder:
 
 ## 🔄 Changes / Announcements
 
-- Adriano of GameChanger is office a Live Coding Space every Tuesday 15:00 UTC. Find the link on the Gimbalabs discord.  In this space You can:
+- Adriano of [GameChanger Finance](https://gamechanger.finance?utm_source=chatgpt.com) is hosting a Live Coding Space every Tuesday at 15:00 UTC.
   
-  - meet and socialize with other builders
+  Find the link in the Gimbalabs Discord.
   
-  - discuss issues with your Hackathon projects
+  In this space you can:
   
-  - work on your projects "open garage" style, that is "alone but with others around"
+  - Meet and socialize with other builders
   
-  - find a feedback session partner
+  - Discuss issues with your hackathon projects
+  
+  - Work on your projects “open garage” style — alone, but with others around
+  
+  - Find a feedback session partner
 
-- One builder has left the hackathon. We are now 28 builders. We want to celebrate their initiative in joining and wish them well in their next projects.
+- Two more builders have left the hackathon.
+  
+  We want to celebrate their initiative in joining and wish them well in their future projects.
 
-- Add a github topic to your repo so we can connect all the repos. See this Github help document on how - [classifying-your-repository-with-topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics")
+- Add a GitHub topic to your repo so we can better connect projects across the hackathon. GitHub documentation:
+  
+  - [Classifying your repository with topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)
 
 ---
 
 ## 💬 Feedback Loop
 
-One of the biggest advantages of this hackathon is access to other builders.
+Feedback
+ is the beginning of iteration.  It's important to ask for feedback from
+ fellow builders, end users and experts.  You can use the Discord 
+channel or any method.  
 
-Don’t build alone.
+Here’s the basic process:
 
-This week, we encourage everyone to begin actively requesting and giving feedback.
+- Find a feedback partner
+- Meet live (Zoom, Discord, Google Meet, etc.)
+- Discuss projects, ideas, blockers, or usability
+- Record the session
+- Include the session and what you learned in your final presentation
 
-Feedback is fuel:
-
-- Show your work early
-
-- Ask specific questions
-
-- Share blockers
-
-- Test ideas before overbuilding
-
-- Iterate quickly
-
-You do not need a polished product to ask for feedback.
-
-In many cases, rough drafts and early experiments create the best conversations.
-
-Ways to participate:
-
-- Request feedback in the Discord
-
-- Schedule calls or demos with other builders
-
-- Review another project and leave thoughtful comments
-
-- Share what you learned after incorporating feedback
-
-The Feedback Pie exists to reward meaningful participation in this process.
+Each completed feedback interaction counts as one credit toward the Feedback Pie rewards.
 
 ---
 
-## 🔧 Focus for Next Week: Feedback Loops
+## 🔧 Focus for Next Week: Iteration & Improvement
 
-This week’s theme is simple:
+### Week 5 Theme: Iteration & Improvement
 
-**Show your work.**
+Now that projects are underway and feedback loops are starting to 
+form, this week is about improving direction rather than simply adding 
+more.
 
-A lot of projects stall because builders wait too long before sharing what they are making.
+Many builders begin with one idea and gradually discover a better 
+version through interaction with users, testers, and other builders.
 
-The goal of this hackathon is not to disappear for 12 weeks and emerge with a perfect demo.
+This is normal.
 
-The goal is to build in public, learn continuously, and improve through interaction.
+Sometimes improvement means:
 
-Good feedback can:
+- simplifying your idea
 
-- Reveal blind spots
+- removing features
 
-- Simplify your roadmap
+- clarifying the value proposition
 
-- Validate ideas early
+- improving usability
 
-- Prevent wasted effort
+- changing direction - a 'Pivot'
 
-- Create new collaborations
+- identifying what users actually care about
 
-Likewise, giving feedback sharpens your own thinking.
+This is often called “finding product-market fit.”
 
-Even a short conversation can validate your product or shift the direction of a project.  Pivots happen.  
+The important thing is not stubbornly sticking to the original plan.
 
-Ask questions. Share screenshots. Post prototypes. Demo unfinished ideas.
+The important thing is learning.
 
-Momentum compounds when builders interact with each other consistently.
+Core messages this week:
+
+- Iterate fast
+
+- Learn from users
+
+- Improve weekly
+
+- Make it better, not bigger
+
+A small project that solves a real problem clearly is often stronger than a large project with unclear value.
+
+Refinement is progress too.
 
 ---
 
@@ -150,14 +162,20 @@ Momentum compounds when builders interact with each other consistently.
 
 - Submit updates: [@gimbalabs](https://x.com/gimbalabs)
 
-- Feedback channel: [#piece-of-pie-feedback-requests](https://discord.com/channels/767416282198835220/1493276804314828871)
+- Feedback channel:  
+  #piece-of-pie-feedback-requests
 
-- Builder discussion channel: [#piece-of-pie-hackathon](https://discord.com/channels/767416282198835220/1493275589325492234)
+- Builder discussion:  
+  #piece-of-pie-hackathon
 
 ---
 
 ## 🍰 Reminder
 
-Everybody at the party gets a slice.
+Product-market fit rarely appears all at once.
 
-Come to the party.
+Most successful projects evolve through many small adjustments.
+
+Listen carefully.  
+Iterate consistently.  
+Keep building.

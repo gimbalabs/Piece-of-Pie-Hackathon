@@ -1,19 +1,19 @@
-## ![🧭](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f9ed/72.png) State of the Hackathon
+## 🧭 State of the Hackathon
 
 - Time: 1 week since enrollment ended.
 - **Active Builders:** 29
 
 ---
 
-## ![🔥](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f525/72.png) What Happened This Week
+## 🔥 What Happened This Week
 
-- ![🏗️](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f3d7_fe0f/72.png) **Weekly update tweets and github commits from Builders**
-- ![🐦](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f426/72.png) **Weekly update tweets from @Gimbalabs**
-- ![🛠️](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f6e0_fe0f/72.png) **Admin dashboard introduced**
+- 🏗️ **Weekly update tweets and github commits from Builders**
+- 🐦 **Weekly update tweets from @Gimbalabs**
+- 🛠️ **Admin dashboard introduced**
 
 ---
 
-## ![👷](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f477/72.png) Builder Updates
+## 👷 Builder Updates
 
 - See the [builder dashboard for updates]([Builder Activity Dashboard](https://newman5.github.io/builder-season-playbook/dashboard/)) from all the hackathon members
 - We can search X.com for everyone using the hashtags to see the updates:
@@ -24,7 +24,7 @@
 
 ---
 
-## ![⏰](https://fonts.gstatic.com/s/e/notoemoji/17.0/23f0/72.png) Deadlines & Reminders
+## ⏰ Deadlines & Reminders
 
 - Weekly update due: Sunday 2026-05-10 1200 UTC
   - Weekly update tweets due each Sunday 1200 UTC
@@ -50,7 +50,7 @@
 
 ---
 
-## ![💬](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4ac/72.png) Feedback Loop
+## 💬 Feedback Loop
 
 - Open requests for feedback:
   - [Retrospectives](https://www.gimbalabs.com/piece-of-pie)
@@ -59,7 +59,7 @@
 
 ---
 
-## ![🔧](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f527/72.png) Focus for Next Week: Finding Your Builder Rhythm
+## 🔧 Focus for Next Week: Finding Your Builder Rhythm
 
 Registration is done. You’re in. Now the real building begins.
 
@@ -91,7 +91,7 @@ Keep moving forward, keep sharing updates weekly, and keep building momentum one
 
 ---
 
-## ![🔗](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f517/72.png) Quick Links
+## 🔗 Quick Links
 
 - Main page: https://www.gimbalabs.com/piece-of-pie
 - Project list: [Builders Dashboard Prototype](https://newman5.github.io/builder-season-playbook/dashboard/)
@@ -101,6 +101,6 @@ Keep moving forward, keep sharing updates weekly, and keep building momentum one
 
 ---
 
-## ![🍰](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f370/72.png) Reminder
+## 🍰 Reminder
 
 Everybody at the party gets a slice! Come to the party!
