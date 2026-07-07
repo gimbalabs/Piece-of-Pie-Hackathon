@@ -4,7 +4,7 @@ This template is a practical boilerplate for the final presentation.
 
 Use it to organize the evidence needed for Builder verification first, then add the optional sections for the Cardano Pie, Real User Pie, and Feedback Pie if they apply.
 
-This is a template, not a separate rule document. The official requirements are defined in the rules and verification docs in this repository.
+This is a template, not a separate rule document. The official requirements are defined in the rules and verification docs in this repository.[Rules Directory](../../docs/rules)
 
 ## Recommended Structure
 
@@ -37,16 +37,7 @@ Track options:
 - official X account or primary X posting account
 - team members exactly as registered
 
-Template:
 
-```md
-Project name:
-Short description:
-Repo:
-Live product:
-X account:
-Registered team members:
-```
 
 ## Slide 3: What the Product Does
 
@@ -57,14 +48,7 @@ Show the user-facing problem and the product in plain language.
 - what value the user gets
 - where payment happens, if applicable
 
-Template:
 
-```md
-User:
-Problem:
-Product:
-Why someone would pay:
-```
 
 ## Slide 4: Live Demo
 
@@ -80,7 +64,7 @@ Recommended flow:
 
 ## Slide 5: How a User Buys the Product
 
-This is especially important for Builder, Cardano, and Real User qualification.
+This is especially important for Real User qualification.
 
 Show:
 
@@ -89,15 +73,7 @@ Show:
 - what happens after payment
 - any account, download, unlock, or fulfillment step
 
-Template:
 
-```md
-What the user buys:
-Price:
-How payment is made:
-What the user receives:
-Link to payment flow:
-```
 
 ## Slide 6: Public Repository Evidence
 
@@ -108,15 +84,7 @@ Show the official repository and visible build history.
 - visible commit history across the build period
 - main folders or files that matter
 
-Template:
 
-```md
-Repo:
-Primary branch:
-Public repo confirmed:
-Evidence of 12 weeks of build activity:
-Key code areas:
-```
 
 ## Slides 7-18: Twelve Official Weekly Update Posts
 
@@ -162,18 +130,9 @@ Checklist:
 - all 12 official weekly update posts linked
 - public evidence is verifiable
 
-Template:
 
-```md
-Builder checklist:
-[ ] Live demo
-[ ] Public repo
-[ ] Public product link
-[ ] 12 weekly update posts
-[ ] Verifiable public evidence
-```
 
-## Optional Section: Cardano Pie
+# Optional Section: Cardano Pie
 
 Only include this section if the project is pursuing the Cardano Pie.
 
@@ -188,24 +147,6 @@ Examples:
 - wallet interaction evidence
 - public product flows that use Cardano mainnet
 
-Template:
-
-```md
-Mainnet feature:
-How the user accesses it:
-Mainnet transaction or explorer link:
-Contract, policy, or app identifier:
-Supporting repo location:
-```
-
-## Cardano Slide B: Cardano Verification Summary
-
-Checklist:
-
-- every Builder requirement met
-- payment gate shown
-- real Cardano mainnet functionality shown
-- evidence is public and verifiable
 
 ## Optional Section: Real User Pie
 
@@ -224,85 +165,40 @@ Examples may include:
 - app store or platform payout record
 - blockchain payment record with enough context
 
-Template:
-
-```md
-Paying user count being presented:
-Type of proof:
-Date of payment:
-Amount:
-Redacted evidence link or screenshot:
-Why this qualifies as a real user:
-```
 
 ## Real User Slide B: Customer Acquisition Story
 
 Explain how the user was acquired.
 
-Template:
-
-```md
+Suggested details:
 Who the user is:
 How they found the product:
 Why they decided to pay:
 What they paid for:
 What happened after purchase:
-```
 
-## Real User Slide C: Real User Verification Summary
 
-Checklist:
-
-- Builder qualification shown
-- at least one real paying user shown
-- payment evidence shown
-- acquisition story shown
-- evidence is verifiable
 
 ## Optional Section: Feedback Pie
 
 Only include this section if the project is pursuing the Feedback Pie.
 
-## Feedback Slide A: Feedback Request Thread
 
-Show the original request and coordination path.
-
-Template:
-
-```md
-Discord thread link:
-Date of request:
-Who requested feedback:
-Who volunteered:
-Session date:
-```
-
-## Feedback Slide B: Recorded Session Evidence
+## Feedback Slide A: Recorded Session Evidence
 
 Show the evidence for each session claimed.
 
 Template per session:
+- Session number:
+- Recorded session link:
+- Session date:
+- Participants:
+- Duration:
+- Why this session counts:
 
-```md
-Session number:
-Recorded session link:
-Session date:
-Participants:
-Duration:
-Why this session counts:
-```
+and a summary of all sessions:
+- Total completed recorded sessions:
 
-## Feedback Slide C: Feedback Credit Summary
-
-Summarize all sessions and total credits claimed.
-
-Template:
-
-```md
-Total completed recorded sessions:
-Total credits claimed:
-Evidence index:
-```
 
 ## Final Slide: Closing Evidence Index
 
