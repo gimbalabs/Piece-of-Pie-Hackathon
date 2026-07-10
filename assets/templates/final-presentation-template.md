@@ -189,7 +189,7 @@ Only include this section if you are pursuing the Feedback Pie.
 Show the evidence for each session claimed.
 
 Template per session:
-- Session number:
+- Product name (that you gave feedback to):
 - Recorded session link:
 - Session date:
 - Participants:
@@ -199,6 +199,7 @@ Template per session:
 and a summary of all sessions:
 - Total completed recorded sessions:
 
+You can use the [Feedback Evidence Template](https://docs.google.com/document/d/1FPellYxfgDSqw2Qlv6srPxh4DfKfjP20RHKns5OXvqg/edit?usp=sharing) found on Google Drive
 
 ## Final Slide: Closing Evidence Index
 
