@@ -148,7 +148,7 @@ Examples:
 - public product flows that use Cardano mainnet
 
 
-## Optional Section: Real User Pie
+# Optional Section: Real User Pie
 
 Only include this section if the project is pursuing the Real User Pie.
 
@@ -179,9 +179,9 @@ What happened after purchase:
 
 
 
-## Optional Section: Feedback Pie
+# Optional Section: Feedback Pie
 
-Only include this section if the project is pursuing the Feedback Pie.
+Only include this section if you are pursuing the Feedback Pie.
 
 
 ## Feedback Slide A: Recorded Session Evidence
