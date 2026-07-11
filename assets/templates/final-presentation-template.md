@@ -201,9 +201,9 @@ and a summary of all sessions:
 
 You can use the [Feedback Evidence Template](https://docs.google.com/document/d/1FPellYxfgDSqw2Qlv6srPxh4DfKfjP20RHKns5OXvqg/edit?usp=sharing) found on Google Drive
 
-## Final Slide: Closing Evidence Index
+# One Slide Option:
 
-End with one clean link summary so reviewers can verify everything quickly.
+One clean summary page so reviewers can verify everything quickly.
 
 Template:
 
@@ -211,6 +211,7 @@ Template:
 Project name:
 Repo:
 Live product:
+Demo video link:
 X account:
 Weekly update posts:
 - Week 1:
