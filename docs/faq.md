@@ -89,6 +89,12 @@ The Cardano Pie is a 20,000 ADA reward pool sponsored by the Cardano Foundation 
 
 A Cardano Pie project must satisfy every Builder Pie requirement, include payment gating, and deliver real functionality on Cardano mainnet.
 
+## Do I have to go to mainnet, or can I stay in preprod?
+
+To qualify for the Cardano Pie, you have to go to Cardano mainnet. Preprod can be useful while you are building and testing, but the final qualifying project must deliver real functionality on mainnet.
+
+Many projects get built and then stay in preprod. This requirement is meant to encourage builders to go all the way to mainnet with a real product. If you are concerned about security or ongoing exposure, you can remove, pause, or disable the mainnet functionality after verification.
+
 ## Can a Cardano project also receive the Builder Pie?
 
 No. For qualifying Cardano mainnet projects, the Cardano Pie replaces the Builder Pie.
